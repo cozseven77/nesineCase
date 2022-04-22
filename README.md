@@ -1,11 +1,11 @@
-Requirements
+## Requirements
 
-CocoaPods
-Swift 5.0
+- [CocoaPods](https://cocoapods.org)
+- Swift 5.0
 
-How to run the project?
+### How to run the project?
 
-Clone this repo
-Open shell window and navigate to project folder
-Run pod install
-Open Tom.xcworkspace and run the project on selected device or simulator
+1. Clone this repo
+1. Open shell window and navigate to project folder
+1. Run `pod install`
+1. Open `nesineCase.xcworkspace` and run the project on selected device or simulator
